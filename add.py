@@ -1,2 +1,3 @@
 """Add"""
-print("hello")
+x = input()
+print(x*5)
